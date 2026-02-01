@@ -1,0 +1,17 @@
+{
+  "name": "MonApp Source",
+  "identifier": "com.mth.apppari.source",
+  "apps": [
+    {
+      "name": "EsportBet",
+      "bundleIdentifier": "com.mth.apppari",
+      "developerName": "Ton Nom",
+      "version": "1.0",
+      "versionDate": "2026-02-01",
+      "downloadURL": "https://github.com/RomainF17/EsportBetAltstore/blob/main/AppPari.ipa",
+      "iconURL": "https://github.com/RomainF17/EsportBetAltstore/blob/main/icon.png",
+      "localizedDescription": "Paris sur l'Esport",
+      "size": 0
+    }
+  ]
+}
